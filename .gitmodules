@@ -1,0 +1,3 @@
+[submodule "converscope"]
+	path = converscope
+	url = https://github.com/daylen/converscope
