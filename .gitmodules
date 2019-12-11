@@ -4,3 +4,6 @@
 [submodule "transformers"]
 	path = transformers
 	url = https://github.com/huggingface/transformers
+[submodule "gpt-2-simple"]
+	path = gpt-2-simple
+	url = https://github.com/minimaxir/gpt-2-simple
