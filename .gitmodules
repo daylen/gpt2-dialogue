@@ -1,3 +1,6 @@
 [submodule "converscope"]
 	path = converscope
 	url = https://github.com/daylen/converscope
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers
